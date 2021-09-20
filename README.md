@@ -5,4 +5,5 @@ Instructions
 1. Needs a Mobile VR Headset and a controller.
 2. Use the controller to move and the X/A button for gravity powers to pull and push the aliens.
 3. Your friends are unconscious around the ground, go towards them and touch them to revive them back.
-4. Work Under Progress. This is just a demo.
+4. Revive all your friends to win the game.
+5. Work Under Progress. This is just a demo.
